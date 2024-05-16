@@ -1,0 +1,11 @@
+d:\homework1\homework1\.debug\debug\deps\libinout-acfe71e3ee84aca3.rmeta: C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inout-0.1.3\src\lib.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inout-0.1.3\src\errors.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inout-0.1.3\src\inout.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inout-0.1.3\src\inout_buf.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inout-0.1.3\src\reserved.rs
+
+d:\homework1\homework1\.debug\debug\deps\libinout-acfe71e3ee84aca3.rlib: C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inout-0.1.3\src\lib.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inout-0.1.3\src\errors.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inout-0.1.3\src\inout.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inout-0.1.3\src\inout_buf.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inout-0.1.3\src\reserved.rs
+
+d:\homework1\homework1\.debug\debug\deps\inout-acfe71e3ee84aca3.d: C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inout-0.1.3\src\lib.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inout-0.1.3\src\errors.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inout-0.1.3\src\inout.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inout-0.1.3\src\inout_buf.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inout-0.1.3\src\reserved.rs
+
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inout-0.1.3\src\lib.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inout-0.1.3\src\errors.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inout-0.1.3\src\inout.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inout-0.1.3\src\inout_buf.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inout-0.1.3\src\reserved.rs:

@@ -1,0 +1,10 @@
+d:\homework1\homework1\.debug\debug\deps\libanstyle_wincon-23fb380d9daf5869.rmeta: C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.3\src\lib.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.3\src\ansi.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.3\src\stream.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.3\src\windows.rs
+
+d:\homework1\homework1\.debug\debug\deps\libanstyle_wincon-23fb380d9daf5869.rlib: C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.3\src\lib.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.3\src\ansi.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.3\src\stream.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.3\src\windows.rs
+
+d:\homework1\homework1\.debug\debug\deps\anstyle_wincon-23fb380d9daf5869.d: C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.3\src\lib.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.3\src\ansi.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.3\src\stream.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.3\src\windows.rs
+
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.3\src\lib.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.3\src\ansi.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.3\src\stream.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.3\src\windows.rs:
